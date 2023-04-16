@@ -1,2 +1,3 @@
 # Counter
-[Link to view project work] (https://counter-xi-vert.vercel.app/)
+
+[Link to view project work](https://counter-xi-vert.vercel.app/)
